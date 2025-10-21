@@ -26,6 +26,7 @@ Este repositório oferece o guia mais abrangente de Linux aplicado à segurança
 - [`docs/glossario.md`](docs/glossario.md) – termos e siglas recorrentes.
 - [`docs/timeline-kali.md`](docs/timeline-kali.md) – marcos históricos do Kali Linux.
 - [`docs/plano-estudos.md`](docs/plano-estudos.md) – trilhas de estudo (4, 8 e 12 semanas).
+- [`docs/colecoes/fundamentos-linux-cybersec`](docs/colecoes/fundamentos-linux-cybersec) – coleção original em português com fundamentos de Linux aplicados a cybersec, organizada em capítulos com exercícios práticos.
 
 ## Convenções gerais
 - Os comandos assumem terminal Bash em Kali Linux; adicione `sudo` quando requer privilégios elevados.
